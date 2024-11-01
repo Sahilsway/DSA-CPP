@@ -15,3 +15,5 @@
 |     | 2024-10-20 | Majority Element In An Array   |
 |     | 2024-10-20 | Painters Partition             |
 |     | 2024-10-20 | Aggressive Cows                |
+| 10  | 2024-10-20 | Power Of 'n' Over 'x'          |
+|     | 2024-10-20 | Product Of Array Except Self   |
