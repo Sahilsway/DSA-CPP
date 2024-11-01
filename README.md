@@ -20,3 +20,6 @@
 | 11  | 2024-10-22 | Plus One To A Character Array  |
 |     | 2024-10-22 | Merge Sorted Array             |
 | 12  | 2024-10-23 | Sort An Array                  |
+| 13  | 2024-10-28 | Remove Occurance Of Substring  |
+|     | 2024-10-28 | Reverse A String               |
+|     | 2024-10-28 | Validate Palindrom             |
