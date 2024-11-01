@@ -19,3 +19,4 @@
 |     | 2024-10-21 | Product Of Array Except Self   |
 | 11  | 2024-10-22 | Plus One To A Character Array  |
 |     | 2024-10-22 | Merge Sorted Array             |
+| 12  | 2024-10-23 | Sort An Array                  |
