@@ -9,3 +9,5 @@
 | 6   | 2024-10-14 | Chocolate Distribution         |
 | 7   | 2024-10-15 | Find Next Permutaion           |
 |     | 2024-10-15 | Search In Rotated Sorted Array |
+| 8   | 2024-10-19 | Best Time To Buy Sell Stock    |
+|     | 2024-10-19 | Book Allocation                |
