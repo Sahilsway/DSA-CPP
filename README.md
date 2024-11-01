@@ -23,3 +23,6 @@
 | 13  | 2024-10-28 | Remove Occurance Of Substring  |
 |     | 2024-10-28 | Reverse A String               |
 |     | 2024-10-28 | Validate Palindrom             |
+| 14  | 2024-10-29 | Permutation In A String        |
+|     | 2024-10-29 | Reverse Words Of A String      |
+|     | 2024-10-29 | String Compression             |
