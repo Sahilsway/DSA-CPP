@@ -11,3 +11,7 @@
 |     | 2024-10-15 | Search In Rotated Sorted Array |
 | 8   | 2024-10-19 | Best Time To Buy Sell Stock    |
 |     | 2024-10-19 | Book Allocation                |
+| 9   | 2024-10-20 | Container With Most Water      |
+|     | 2024-10-20 | Majority Element In An Array   |
+|     | 2024-10-20 | Painters Partition             |
+|     | 2024-10-20 | Aggressive Cows                |
