@@ -6,3 +6,4 @@
 | 4   | 2024-10-09 | Maximun Subarray Sum        |
 | 5   | 2024-10-12 | Contains Dublicate Array    |
 |     | 2024-10-12 | Repeated And Missing Number |
+| 6   | 2024-10-14 | Chocolate Distribution      |
