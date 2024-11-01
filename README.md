@@ -1,5 +1,6 @@
 | Day | Date       | Question Name                   |
 | --- | ---------- | ------------------------------- |
+|     | **ARRAY**  |                                 |
 | 1   | 2024-10-06 | Hello World                     |
 | 2   | 2024-10-07 | Max & Minimun In An Array       |
 | 3   | 2024-10-08 | Reverse An Array                |
@@ -20,6 +21,7 @@
 | 11  | 2024-10-22 | Plus One To A Character Array   |
 |     | 2024-10-22 | Merge Sorted Array              |
 | 12  | 2024-10-23 | Sort An Array                   |
+|     | **STRING** |                                 |
 | 13  | 2024-10-28 | Remove Occurance Of Substring   |
 |     | 2024-10-28 | Reverse A String                |
 |     | 2024-10-28 | Validate Palindrom              |
