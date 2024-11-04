@@ -22,14 +22,15 @@
 | 12  | 2024-10-23 | Sort An Array                                     | -       |
 | 13  | 2024-10-28 | Remove Occurance Of Substring                     | String  |
 |     | 2024-10-28 | Reverse A String                                  | -       |
-|     | 2024-10-28 | Validate Palindrom                                | -       |
+|     | 2024-10-28 | Validate String Palindrome                        | -       |
 | 14  | 2024-10-29 | Permutation In A String                           | -       |
 |     | 2024-10-29 | Reverse Words Of A String                         | -       |
 |     | 2024-10-29 | String Compression                                | -       |
-| 15  | 2024-10-30 | Kth Largest Element In An Array                   | -       |
+| 15  | 2024-10-30 | Kth Largest Element In An Array                   | Array   |
 | 16  | 2024-11-02 | Count Number Of Primes In A Range                 | Numbers |
 |     | 2024-11-02 | Check If A Number Is Armstrong                    |         |
 |     | 2024-11-02 | Digits In A Number                                |         |
 |     | 2024-11-02 | Greatest Common Divisor and Least Common Multiple |         |
 |     | 2024-11-02 | Reverse An Integer                                |         |
-|     | 2024-11-02 | Check For Palindrom Integer                       |         |
+|     | 2024-11-02 | Validate Integer Palindrome                       |         |
+| 17  | 2024-11-03 | Find Single Number In An Array                    | Array   |
