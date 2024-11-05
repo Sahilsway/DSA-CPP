@@ -1,10 +1,10 @@
 | Day | Date       | Question Name                                     | Concept  |
 | --- | ---------- | ------------------------------------------------- | -------- |
-| 1   | 2024-10-06 | Hello World                                       | Array    |
-| 2   | 2024-10-07 | Max & Minimun In An Array                         | -        |
-| 3   | 2024-10-08 | Reverse An Array                                  | -        |
+| 1   | 2024-10-06 | Hello World                                       | -        |
+| 2   | 2024-10-07 | Maximum & Minimum In An Array                     | Array    |
+| 3   | 2024-10-08 | Reverse An Array                                  | Vector   |
 | 4   | 2024-10-09 | Maximun Subarray Sum                              | -        |
-| 5   | 2024-10-12 | Contains Dublicate Array                          | -        |
+| 5   | 2024-10-12 | Contains Dublicate                                | -        |
 |     | 2024-10-12 | Repeated And Missing Number                       | -        |
 | 6   | 2024-10-14 | Chocolate Distribution                            | -        |
 | 7   | 2024-10-15 | Find Next Permutaion                              | -        |
