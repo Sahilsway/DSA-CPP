@@ -40,3 +40,6 @@
 | 19  | 2024-11-05 | 2D Vector                                         | 2D Vector |
 |     | 2024-11-05 | Binary Search In 2D Matrix                        | -         |
 |     | 2024-11-05 | Binary Search In 2D Matrix II                     | -         |
+| 20  | 2024-11-06 | Three Sum                                         | -         |
+| 21  | 2024-11-07 | Four Sum                                          | -         |
+| 22  | 2024-11-08 | Spiral Matrix                                     | -         |
