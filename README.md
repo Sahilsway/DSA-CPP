@@ -45,3 +45,4 @@
 | 22  | 2024-11-08 | Spiral Matrix                                     | -         |
 | 23  | 2024-11-09 | Merge Intervals                                   | -         |
 | 24  | 2024-11-10 | Two Sum                                           | -         |
+| 25  | 2024-11-12 | Find Missing and Repeated Values                  | -         |
