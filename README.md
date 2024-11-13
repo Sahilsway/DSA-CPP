@@ -26,14 +26,14 @@
 | 14  | 2024-10-29 | Permutation In A String                           | -         |
 |     | 2024-10-29 | Reverse Words Of A String                         | -         |
 |     | 2024-10-29 | String Compression                                | -         |
-| 15  | 2024-10-30 | Kth Largest Element In An Array                   | Array     |
+| 15  | 2024-10-30 | Kth Largest Element In An Array                   | Vector    |
 | 16  | 2024-11-02 | Count Number Of Primes In A Range                 | Numbers   |
 |     | 2024-11-02 | Check If A Number Is Armstrong                    |           |
 |     | 2024-11-02 | Digits In A Number                                |           |
 |     | 2024-11-02 | Greatest Common Divisor and Least Common Multiple |           |
 |     | 2024-11-02 | Reverse An Integer                                |           |
 |     | 2024-11-02 | Validate Integer Palindrome                       |           |
-| 17  | 2024-11-03 | Find Single Number In An Array                    | Array     |
+| 17  | 2024-11-03 | Find Single Number In An Array                    | Vector    |
 | 18  | 2024-11-04 | Maximum Row Sum                                   | 2D Array  |
 |     | 2024-11-04 | Linear Search                                     | -         |
 |     | 2024-11-04 | Diagonal Sum                                      | -         |
@@ -44,5 +44,6 @@
 | 21  | 2024-11-07 | Four Sum                                          | -         |
 | 22  | 2024-11-08 | Spiral Matrix                                     | -         |
 | 23  | 2024-11-09 | Merge Intervals                                   | -         |
-| 24  | 2024-11-10 | Two Sum                                           | -         |
-| 25  | 2024-11-12 | Find Missing and Repeated Values                  | -         |
+| 24  | 2024-11-10 | Two Sum                                           | Vector    |
+| 25  | 2024-11-12 | Find Missing and Repeated Values                  | 2D Vector |
+| 26  | 2024-11-13 | Find Duplicate                                    | Vector    |
