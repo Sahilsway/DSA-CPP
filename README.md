@@ -43,3 +43,4 @@
 | 20  | 2024-11-06 | Three Sum                                         | -         |
 | 21  | 2024-11-07 | Four Sum                                          | -         |
 | 22  | 2024-11-08 | Spiral Matrix                                     | -         |
+| 23  | 2024-11-09 | Merge Intervals                                   | -         |
