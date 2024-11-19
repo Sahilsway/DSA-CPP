@@ -5,6 +5,8 @@
 using namespace std;
 
 void nextPermutation(vector<int> &nums) {
+  // next_permutation(nums.begin(), nums.end());
+
   int i = nums.size() - 2;
   while (i >= 0 && nums[i] >= nums[i + 1]) {
     i--;
@@ -28,7 +30,7 @@ void printVector(vector<int> &nums) {
 }
 
 int main() {
-  vector<int> nums = {3, 2, 1};
+  vector<int> nums = {3, 1, 2};
   nextPermutation(nums);
   printVector(nums);
   return 0;
