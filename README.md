@@ -49,3 +49,4 @@
 | 26  | 2024-11-13 | Find Duplicate                                    | Vector    |
 | 27  | 2024-11-14 | Longest Substring with no Repeating Character     | Vector    |
 | 28  | 2024-11-18 | Set Matrix Row and Col to Zero                    | 2D Vector |
+| 29  | 2024-11-19 | Push Zeros to the End of the Array                | Vector    |
