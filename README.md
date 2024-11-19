@@ -47,3 +47,4 @@
 | 24  | 2024-11-10 | Two Sum                                           | Vector    |
 | 25  | 2024-11-12 | Find Missing and Repeated Values                  | 2D Vector |
 | 26  | 2024-11-13 | Find Duplicate                                    | Vector    |
+| 27  | 2024-11-14 | Longest Substring with no Repeating Character     | Vector    |
