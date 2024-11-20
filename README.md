@@ -1,6 +1,5 @@
-<div align="center">
-<div align="left">
-    
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Table of Content &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
 | Day | Date       | Question Name                                     | Concept   |
 | --- | ---------- | ------------------------------------------------- | --------- |
 | 1   | 2024-10-06 | Hello World                                       | -         |
@@ -55,6 +54,3 @@
 | 29  | 2024-11-19 | Push Zeros to the End of the Array                | Vector    |
 | 30  | 2024-11-20 | Word Search in 2D Matrix                          | 2D Vector |
 |     | 2024-11-20 | Find Two Majority Element                         | Vector    |
-
-</div>
-</div>
