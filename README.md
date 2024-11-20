@@ -1,4 +1,5 @@
 <div align="center">
+<div align="left">
     
 | Day | Date       | Question Name                                     | Concept   |
 | --- | ---------- | ------------------------------------------------- | --------- |
@@ -55,4 +56,5 @@
 | 30  | 2024-11-20 | Word Search in 2D Matrix                          | 2D Vector |
 |     | 2024-11-20 | Find Two Majority Element                         | Vector    |
 
+</div>
 </div>
