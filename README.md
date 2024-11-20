@@ -1,3 +1,5 @@
+<div align="center">
+    
 | Day | Date       | Question Name                                     | Concept   |
 | --- | ---------- | ------------------------------------------------- | --------- |
 | 1   | 2024-10-06 | Hello World                                       | -         |
@@ -50,3 +52,7 @@
 | 27  | 2024-11-14 | Longest Substring with no Repeating Character     | Vector    |
 | 28  | 2024-11-18 | Set Matrix Row and Col to Zero                    | 2D Vector |
 | 29  | 2024-11-19 | Push Zeros to the End of the Array                | Vector    |
+| 30  | 2024-11-20 | Word Search in 2D Matrix                          | 2D Vector |
+|     | 2024-11-20 | Find Two Majority Element                         | Vector    |
+
+</div>
