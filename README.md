@@ -54,4 +54,6 @@
 | 29  | 2024-11-19 | Push Zeros to the End of the Array                | Vector    |
 | 30  | 2024-11-20 | Word Search in 2D Matrix                          | 2D Vector |
 |     | 2024-11-20 | Find Two Majority Element                         | Vector    |
-| 31  | 2024-11-21 | Subarray Sum Equal K                              | Vector    |
+| 31  | 2024-11-21 | Subarray Sum Equal K                              | -         |
+| 32  | 2024-11-22 | Best Time to Buy Sell Stock II                    | -         |
+|     | 2024-11-22 | Longest Common Prefix in a String Array           | String    |
