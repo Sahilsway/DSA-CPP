@@ -57,3 +57,4 @@
 | 31  | 2024-11-21 | Subarray Sum Equal K                              | -         |
 | 32  | 2024-11-22 | Best Time to Buy Sell Stock II                    | -         |
 |     | 2024-11-22 | Longest Common Prefix in a String Array           | String    |
+| 33  | 2024-11-23 | Anagram String                                    | -         |
