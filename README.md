@@ -58,3 +58,6 @@
 | 32  | 2024-11-22 | Best Time to Buy Sell Stock II                    | -         |
 |     | 2024-11-22 | Longest Common Prefix in a String Array           | String    |
 | 33  | 2024-11-23 | Anagram String                                    | -         |
+| 34  | 2024-11-24 | Binary Search Using Recursion                     | Recursion |
+|     | 2024-11-24 | Print Fibonacci Using Recursion                   | -         |
+|     | 2024-11-24 | Check If Array is Sorted                          | -         |
