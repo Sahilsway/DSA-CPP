@@ -62,3 +62,4 @@
 |     | 2024-11-24 | Print Fibonacci Using Recursion                   | -         |
 |     | 2024-11-24 | Check If Array is Sorted                          | -         |
 | 35  | 2024-11-25 | Group Anagrams                                    | String    |
+| 36  | 2024-11-25 | Kth Smallest Absolute Difference                  | Array     |

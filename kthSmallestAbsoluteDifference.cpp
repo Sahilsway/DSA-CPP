@@ -3,14 +3,13 @@
 #include <vector>
 using namespace std;
 
-// Function to count pairs with absolute difference <= mid
 int countPairs(vector<int> &arr, int mid) {
   int count = 0, n = arr.size();
   for (int i = 0, j = 0; i < n; ++i) {
     while (j < n && arr[j] - arr[i] <= mid) {
       ++j;
     }
-    count += (j - i - 1); // All pairs (i, i+1) to (i, j-1)
+    count += (j - i - 1);
   }
   return count;
 }
