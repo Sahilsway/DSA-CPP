@@ -60,7 +60,7 @@
 | 33  | 2024-11-23 | Anagram String                                                | -            |
 | 34  | 2024-11-24 | Binary Search Using Recursion                                 | Recursion    |
 |     | 2024-11-24 | Print Fibonacci Using Recursion                               | -            |
-|     | 2024-11-24 | Check If Array is Sorted                                      | -            |
+|     | 2024-11-24 | Check if Array is Sorted                                      | -            |
 | 35  | 2024-11-25 | Group Anagrams                                                | String       |
 | 36  | 2024-11-25 | Kth Smallest Absolute Difference                              | Array        |
 | 37  | 2024-12-01 | Print All Subsets Using Recursion Backtracking                | Backtracking |
@@ -68,5 +68,7 @@
 |     | 2024-12-01 | Return All Non-Repeating Subsets Using Recursion Backtracking | -            |
 | 38  | 2024-12-02 | Print All Permutations of a Number                            | -            |
 |     | 2024-12-02 | Print All Permutations of a string                            | -            |
-|     | 2024-12-02 | Roman To Integer                                              | Numbers      |
-| 39  | 2024-12-03 | Minimize Maximum Difference Between Heights                   | Sorting      |
+|     | 2024-12-02 | Roman to Integer                                              | Numbers      |
+| 39  | 2024-12-03 | Minimum Possible Difference Between Heights                   | Sorting      |
+| 40  | 2024-12-04 | Max Product Subarray                                          | Sorting      |
+|     | 2024-12-04 | N Queens                                                      | Backtracking |
