@@ -72,3 +72,4 @@
 | 39  | 2024-12-03 | Minimum Possible Difference Between Heights                   | Sorting      |
 | 40  | 2024-12-04 | Max Product Subarray                                          | Sorting      |
 |     | 2024-12-04 | N Queens                                                      | Backtracking |
+| 41  | 2024-12-05 | Validate Parentheses                                          | String       |
