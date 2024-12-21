@@ -74,3 +74,4 @@
 |     | -          | N Queens                                                      | Backtracking |
 | 41  | 2024-12-06 | Validate Parentheses                                          | String       |
 | 42  | 2024-12-08 | Remove Duplicate                                              | Vector       |
+| 43  | 2024-12-16 | Sudoku Solver                                                 | Backtracking |
