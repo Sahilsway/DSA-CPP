@@ -75,3 +75,5 @@
 | 41  | 2024-12-06 | Validate Parentheses                                          | String       |
 | 42  | 2024-12-08 | Remove Duplicate                                              | Vector       |
 | 43  | 2024-12-16 | Sudoku Solver                                                 | Backtracking |
+| 44  | 2024-12-21 | Rat in a Maze                                                 | -            |
+|     | -          | Combination Sum                                               | -            |
