@@ -77,3 +77,4 @@
 | 43  | 2024-12-16 | Sudoku Solver                                                 | Backtracking |
 | 44  | 2024-12-21 | Rat in a Maze                                                 | -            |
 |     | -          | Combination Sum                                               | -            |
+| 45  | 2024-12-22 | Palindrome Partition                                          | -            |
