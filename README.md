@@ -79,3 +79,4 @@
 |     | -          | Combination Sum                                               | -            |
 | 45  | 2024-12-22 | Palindrome Partition                                          | -            |
 | 46  | 2024-12-29 | Count Inversions                                              | -            |
+|     | -          | Knights Tour                                                  | -            |

@@ -73,22 +73,14 @@ void insertionSort(vector<int> &arr, int n) {
 void merge(vector<int> &arr, int left, int mid, int right) {
   int n1 = mid - left + 1;
   int n2 = right - mid;
-  cout << "merge: " << left << " " << mid << " " << right << endl;
-  cout << "n1: " << n1 << ", "
-       << "n2: " << n2 << endl;
   vector<int> L(n1), R(n2);
   for (int i = 0; i < n1; i++)
     L[i] = arr[left + i];
-  cout << "R :";
-  printVector(L);
   for (int j = 0; j < n2; j++)
     R[j] = arr[mid + 1 + j];
-  cout << "R :";
-  printVector(R);
   int i = 0, j = 0;
   int k = left;
   while (i < n1 && j < n2) {
-    cout << "while" << endl;
     if (L[i] <= R[j]) {
       arr[k] = L[i];
       i++;
@@ -113,10 +105,8 @@ void mergeSort(vector<int> &arr, int left, int right) {
   if (left >= right)
     return;
   int mid = left + (right - left) / 2;
-  cout << "bfr-break: " << left << " " << mid << " " << right << endl;
   mergeSort(arr, left, mid);
   mergeSort(arr, mid + 1, right);
-  cout << "break: " << left << " " << mid << " " << right << endl;
   merge(arr, left, mid, right);
 }
 
@@ -127,21 +117,17 @@ void mergeSort(vector<int> &arr, int left, int right) {
 //   int i = (low - 1);
 //
 //   for (int j = low; j <= high - 1; j++) {
-//     cout << "pivot: " << pivot << endl; // TODO: remove
 //     if (arr[j] <= pivot) {
 //       i++;
-//       cout << "i: " << i << ", j: " << j << endl; // TODO: remove
 //       swap(arr[i], arr[j]);
 //     }
 //   }
 //   swap(arr[i + 1], arr[high]);
-//   printVector(arr); // TODO: remove
 //   return (i + 1);
 // }
 // void quickSort(vector<int> &arr, int low, int high) {
 //   if (low < high) {
 //     int pi = partition(arr, low, high);
-//     cout << "pi: " << pi << endl; // TODO: remove
 //
 //     quickSort(arr, low, pi - 1);
 //     quickSort(arr, pi + 1, high);
@@ -224,11 +210,11 @@ int main() {
   // selectionSort(arr, n);
   // insertionSort(arr, n);
   // mergeSort(arr, 0, n - 1);
-  // quickSort(arr, 0, n - 1);
-  heapSort(arr, n);
-  countingSort(arr, n);
+  quickSort(arr, 0, n - 1);
+  // heapSort(arr, n);
+  // countingSort(arr, n);
 
-  dnfSort(arr, n);
+  // dnfSort(arr, n);
 
   printVector(arr);
   return 0;
