@@ -82,3 +82,5 @@
 |     | -          | Knights Tour                                                  | -            |
 | 47  | 2025-01-04 | Encapsulation                                                 | OOPS         |
 |     | 2025-01-04 | Inheritance                                                   | OOPS         |
+| 48  | 2025-01-05 | Polymorphism                                                  | OOPS         |
+|     | 2025-01-05 | Abstraction                                                   | OOPS         |
