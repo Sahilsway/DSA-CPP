@@ -80,3 +80,5 @@
 | 45  | 2024-12-22 | Palindrome Partition                                          | -            |
 | 46  | 2024-12-29 | Count Inversions                                              | -            |
 |     | -          | Knights Tour                                                  | -            |
+| 47  | 2025-01-04 | Encapsulation                                                 | OOPS         |
+|     | 2025-01-04 | Inheritance                                                   | OOPS         |
